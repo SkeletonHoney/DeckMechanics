@@ -1,0 +1,7 @@
+C:\Users\Ryan\source\repos\DeckMech\DeckMech\bin\Debug\DeckMech.exe.config
+C:\Users\Ryan\source\repos\DeckMech\DeckMech\bin\Debug\DeckMech.exe
+C:\Users\Ryan\source\repos\DeckMech\DeckMech\bin\Debug\DeckMech.pdb
+C:\Users\Ryan\source\repos\DeckMech\DeckMech\obj\Debug\DeckMech.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\DeckMech\DeckMech\obj\Debug\DeckMech.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\DeckMech\DeckMech\obj\Debug\DeckMech.exe
+C:\Users\Ryan\source\repos\DeckMech\DeckMech\obj\Debug\DeckMech.pdb
